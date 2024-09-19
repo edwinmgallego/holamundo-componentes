@@ -66,6 +66,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }*/
+html,body{
+  background-color: salmon;
+  color:azure
+}
 .conatiner{
   text-align: center;
 }
